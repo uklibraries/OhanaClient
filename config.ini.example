@@ -1,0 +1,5 @@
+[ohana-client]
+
+; ohana_library_path = [string]
+; Path to the Ohana library
+ohana_library_path = "/path/to/ohana.php"
